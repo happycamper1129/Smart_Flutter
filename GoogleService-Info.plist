@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>415701816683-j9of1piv4ash8l4sufcha6t6mufkhj57.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.415701816683-j9of1piv4ash8l4sufcha6t6mufkhj57</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>415701816683-q11pqd27mrivq0q7110e1kfnd910ud7i.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBAK3lSA-PswlrL0z5lDOMLe_IrvM0-edM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>415701816683</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.jewelerymarketplace</string>
+	<key>PROJECT_ID</key>
+	<string>trade-fair-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>trade-fair-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:415701816683:ios:07667d913e787cddcf282e</string>
+</dict>
+</plist>
